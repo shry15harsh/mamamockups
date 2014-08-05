@@ -1,0 +1,47 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1100" measuredH="685" mockupW="825" mockupH="685">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="275" y="0" w="825" h="685" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Builder%20Managerial%20Application%0Ahttp%3A//builder.com/admin/create</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="376" y="103" w="623" h="522" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="521" y="221" w="309" h="33" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="521" y="296" w="309" h="113" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="815" y="507" w="103" h="31" measuredW="72" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Create</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="422" y="221" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="416" y="296" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="582" y="154" w="-1" h="-1" measuredW="198" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20a%20new%20project</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="417" y="449" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Other%20Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextArea" x="521" y="443" w="309" h="33" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
