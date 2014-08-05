@@ -5,17 +5,17 @@
         <text>Builder%20Managerial%20Application%0Ahttp%3A//builder.com/admin/create</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="376" y="103" w="623" h="522" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="376" y="113" w="623" h="522" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="521" y="221" w="309" h="33" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="521" y="296" w="309" h="113" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="815" y="507" w="103" h="31" measuredW="72" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="815" y="507" w="103" h="31" measuredW="56" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
-        <text>Create</text>
+        <text>Next</text>
       </controlProperties>
     </control>
     <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="422" y="221" w="-1" h="-1" measuredW="35" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
@@ -41,6 +41,21 @@
     <control controlID="26" controlTypeID="com.balsamiq.mockups::TextArea" x="521" y="443" w="309" h="33" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="902" y="126" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Step%201%20of%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::LinkBar" x="294" y="84" w="-1" h="-1" measuredW="171" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Administration%2C%20My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::LinkBar" x="882" y="84" w="-1" h="-1" measuredW="187" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logged%20in%20as%20Admin%2C%20Sign%20Out</text>
       </controlProperties>
     </control>
   </controls>
