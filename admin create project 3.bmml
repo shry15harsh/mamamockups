@@ -11,7 +11,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="711" y="344" w="103" h="31" measuredW="56" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="715" y="327" w="103" h="31" measuredW="56" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Next</text>
@@ -22,14 +22,14 @@
         <text>Add%20email%20address%20of%20MD</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::SubTitle" x="486" y="154" w="-1" h="-1" measuredW="416" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::SubTitle" x="486" y="154" w="-1" h="-1" measuredW="397" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Add%20Managing%20Directors%20of%20the%20Project</text>
+        <text>Add%20Project%20Managers%20of%20the%20Project</text>
       </controlProperties>
     </control>
     <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="902" y="126" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Step%202%20of%204</text>
+        <text>Step%203%20of%204</text>
       </controlProperties>
     </control>
     <control controlID="39" controlTypeID="com.balsamiq.mockups::LinkBar" x="294" y="84" w="-1" h="-1" measuredW="171" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
@@ -52,13 +52,13 @@
         <text>On%20pressing%20+%20you%20can%20add%20new%20MDs.</text>
       </controlProperties>
     </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="825" y="344" w="103" h="31" measuredW="63" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Button" x="833" y="327" w="103" h="31" measuredW="63" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Finish</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="410" y="344" w="103" h="31" measuredW="74" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="401" y="327" w="103" h="31" measuredW="74" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <size>16</size>
         <text>Cancel</text>

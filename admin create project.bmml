@@ -58,5 +58,11 @@
         <text>Logged%20in%20as%20Admin%2C%20Sign%20Out</text>
       </controlProperties>
     </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="408" y="513" w="103" h="31" measuredW="74" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
