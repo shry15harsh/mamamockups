@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1020" measuredH="444" mockupW="806" mockupH="430">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="214" y="14" w="806" h="430" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Builder%20Managerial%20Application%0Ahttp%3A//builder.com/md</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="230" y="99" w="-1" h="-1" measuredW="96" measuredH="19" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="771" y="99" w="-1" h="-1" measuredW="230" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logged%20in%20as%20Jaideep%20%28MD%29%2C%20Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Menu" x="230" y="178" w="775" h="-1" measuredW="150" measuredH="83" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%201%20%0A-----------%0AProject%202%0A-----%0AProject%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Link" x="971" y="185" w="-1" h="-1" measuredW="24" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Link" x="971" y="210" w="-1" h="-1" measuredW="24" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="971" y="235" w="-1" h="-1" measuredW="24" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

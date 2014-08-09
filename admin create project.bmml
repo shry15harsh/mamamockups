@@ -2,7 +2,7 @@
   <controls>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="275" y="0" w="825" h="685" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Builder%20Managerial%20Application%0Ahttp%3A//builder.com/admin/create</text>
+        <text>Builder%20Managerial%20Application%0Ahttp%3A//builder.com/admin/create/1</text>
       </controlProperties>
     </control>
     <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="376" y="113" w="623" h="522" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
@@ -43,9 +43,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="902" y="126" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="902" y="126" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Step%201%20of%204</text>
+        <text>Step%201%20of%203</text>
       </controlProperties>
     </control>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::LinkBar" x="294" y="84" w="-1" h="-1" measuredW="171" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
