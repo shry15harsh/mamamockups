@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1020" measuredH="408" mockupW="806" mockupH="394">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="214" y="14" w="806" h="394" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Builder%20Managerial%20Application%0Ahttp%3A//builder.com/store</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="230" y="99" w="-1" h="-1" measuredW="96" measuredH="19" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Account</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="771" y="99" w="-1" h="-1" measuredW="239" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logged%20in%20as%20Store%20Manager%2C%20Sign%20Out</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
