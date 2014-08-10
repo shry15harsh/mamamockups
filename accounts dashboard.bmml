@@ -5,17 +5,17 @@
         <text>Builder%20Managerial%20Application%0Ahttp%3A//builder.com/account</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="230" y="99" w="-1" h="-1" measuredW="96" measuredH="19" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="230" y="99" w="-1" h="-1" measuredW="160" measuredH="19" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>My%20Account</text>
+        <text>My%20Account%2C%20View%20Report</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="750" y="99" w="-1" h="-1" measuredW="255" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="750" y="100" w="-1" h="-1" measuredW="255" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Logged%20in%20as%20Account%20Manager%2C%20Sign%20Out</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="352" y="144" w="530" h="232" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="352" y="144" w="530" h="273" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="464" y="159" w="-1" h="-1" measuredW="335" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Update%20Today%27s%20Account%20Detail</text>
@@ -61,41 +61,29 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::PointyButton" x="699" y="198" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <direction>left</direction>
-        <newLayout>true</newLayout>
-        <text>Submit</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::PointyButton" x="699" y="231" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <direction>left</direction>
-        <newLayout>true</newLayout>
-        <text>Submit</text>
-      </controlProperties>
-    </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::PointyButton" x="699" y="270" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <direction>left</direction>
-        <newLayout>true</newLayout>
-        <text>Submit</text>
-      </controlProperties>
-    </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::PointyButton" x="699" y="306" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <direction>left</direction>
-        <newLayout>true</newLayout>
-        <text>Submit</text>
-      </controlProperties>
-    </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="771" y="334" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="750" y="364" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Send%20Report</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="707" y="199" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="707" y="234" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Button" x="707" y="273" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="707" y="306" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
       </controlProperties>
     </control>
   </controls>
