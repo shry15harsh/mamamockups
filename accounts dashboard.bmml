@@ -61,7 +61,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="750" y="364" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="707" y="365" w="-1" h="-1" measuredW="97" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Send%20Report</text>
       </controlProperties>
